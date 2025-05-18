@@ -1,9 +1,0 @@
-﻿//JsonNodeWithJsonSerializerOptions.Program.Main();
-//JsonDocumentWithJsonSerializerOptions.Program.Main();
-//JsonNodeFromStringExample.Program.Main();
-//JsonNodeFromObjectExample.Program.Main();
-//JsonNodePOCOExample.Program.Main();
-//JsonNodeAverageGradeExample.Program.Main();
-//WriteRawJson.Program.Main();
-//ReadMultipleDocs.Program.Main2();
-ReadMultipleDocs.Program.Main3();

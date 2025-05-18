@@ -1,2 +1,0 @@
-﻿//Tiktoken.RunIt();
-Llama.RunIt();
